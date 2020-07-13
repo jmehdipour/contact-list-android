@@ -6,6 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.contactspage"
+        vectorDrawables.useSupportLibrary = true
         minSdkVersion 17
         targetSdkVersion 30
         versionCode 1
